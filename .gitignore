@@ -1,0 +1,3 @@
+# Credenciales locales: no se suben al repositorio
+app/config/config.php
+*.log
